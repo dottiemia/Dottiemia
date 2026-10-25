@@ -1,5 +1,7 @@
-Hi, I'm Dottie! 💗 👩🏾‍💻
-
+<h1 align="center">🌸 Hi, I'm Dottie! 💗</h1>
+<p align="center">
+  💻 Computer Science Student | 🤖 Aspiring Software Engineer | ⚖️ Future Tech Attorney
+</p>
 Computer Science Student | Aspiring Software Engineer | Future Tech Attorney ⚖️
 
 Welcome to my little corner of GitHub! 🌸
