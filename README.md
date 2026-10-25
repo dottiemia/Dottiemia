@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./dottie-banner.png" alt="Dottie's Digital World" width="100%">
+</p>
 <h1 align="center">🌸 Hi, I'm Dottie! 💗</h1>
 <p align="center">
   💻 Computer Science Student | 🤖 Aspiring Software Engineer | ⚖️ Future Tech Attorney
