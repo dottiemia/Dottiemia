@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi, I'm Dottie! 💗 👩🏾‍💻
 
-<!--
-**dottiemia/Dottiemia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student | Aspiring Software Engineer | Future Tech Attorney ⚖️
 
-Here are some ideas to get you started:
+Welcome to my little corner of GitHub! 🌸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science and Philosophy student at Southern Illinois University Edwardsville (SIUE), passionate about exploring the intersection of technology, artificial intelligence, and law.
+
+I'm currently building my programming skills, exploring new technologies, and creating projects that challenge me to grow as a developer.
+
+💻 What I'm Learning
+
+🐍 Python
+
+💻 C++
+
+🛠️ Git & GitHub
+
+🤖 Artificial Intelligence
+
+📊 Data Science
+
+🌷 My Goals
+
+Build meaningful software projects.
+
+Gain hands-on experience through technical internships.
+
+Explore AI and software engineering.
+
+Eventually combine my technology background with a career in law.
+
+✨ A Little About Me
+
+🎓 Double majoring in Computer Science & Philosophy
+
+💗 Passionate about technology, learning, and personal growth
+
+🌸 Building my developer journey one project at a time
+
+📫 Let's Connect!
+
+I'm always excited to learn, collaborate, and connect with others in tech!
