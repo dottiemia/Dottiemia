@@ -25,7 +25,7 @@ I'm currently building my programming skills, exploring new technologies, and cr
 
 📊 Data Science
 
-🌷 My Goals
+📚 My Goals
 
 Build meaningful software projects.
 
@@ -41,8 +41,8 @@ Eventually combine my technology background with a career in law.
 
 💗 Passionate about technology, learning, and personal growth
 
-🌸 Building my developer journey one project at a time
+🧩 Building my developer journey one project at a time
 
-📫 Let's Connect!
+📩 Let's Connect!📥
 
 I'm always excited to learn, collaborate, and connect with others in tech!
